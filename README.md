@@ -16,9 +16,9 @@ I am a final-year student at the Athens University of Economics and Business (AU
 ---
 
 ### 🚀 Featured Projects
-- ✈️ **[Airline Sentiment Analysis]([link_εδω](https://github.com/athinastavropoulou/Airline-Customer-Sentiment-Analysis.git)):** End-to-end ML pipeline from web scraping to passenger satisfaction prediction.
-- 💳 **[Customer Segmentation]([link_εδω](https://github.com/athinastavropoulou/Credit-Card-Customer-Segmentation.git)):** Using Unsupervised Learning to group credit card users based on behavior.
-- 🌱 **[ESG & AI Research]([link_εδω](https://github.com/athinastavropoulou/ESG-AI-Analytics.git)):** Analyzing the correlation between digital maturity and sustainability in global firms.
+- ✈️ **[Airline Sentiment Analysis]((https://github.com/athinastavropoulou/Airline-Customer-Sentiment-Analysis.git)):** End-to-end ML pipeline from web scraping to passenger satisfaction prediction.
+- 💳 **[Customer Segmentation]((https://github.com/athinastavropoulou/Credit-Card-Customer-Segmentation.git)):** Using Unsupervised Learning to group credit card users based on behavior.
+- 🌱 **[ESG & AI Research]((https://github.com/athinastavropoulou/ESG-AI-Analytics.git)):** Analyzing the correlation between digital maturity and sustainability in global firms.
 
 ---
 
