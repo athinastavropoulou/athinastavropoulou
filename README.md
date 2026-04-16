@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there, I'm Athina! 👋
 
-<!--
-**athinastavropoulou/athinastavropoulou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Business Analytics Student & Digital Project Manager
+I am a final-year student at the Athens University of Economics and Business (AUEB). I'm passionate about bridging the gap between **Marketing Strategy** and **Data Science**, with a special focus on **ESG & Sustainability**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ My Technical Toolkit
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+- **Programming:** Python (Pandas, NumPy, Scikit-Learn)
+- **Data Analytics:** Web Scraping, Sentiment Analysis, Customer Segmentation
+- **AI Exploration:** LLMs (Gemini API), NLP (Topic Modeling), Text-to-Speech
+- **Business Skills:** Project Management, Strategic Communication, ESG Reporting
+
+---
+
+### 🚀 Featured Projects
+- ✈️ **[Airline Sentiment Analysis](link_εδω):** End-to-end ML pipeline from web scraping to passenger satisfaction prediction.
+- 💳 **[Customer Segmentation](link_εδω):** Using Unsupervised Learning to group credit card users based on behavior.
+- 🌱 **[ESG & AI Research](link_εδω):** Analyzing the correlation between digital maturity and sustainability in global firms.
+
+---
+
+### 📫 Let's Connect!
+- 💼 [LinkedIn Profile](το_link_σου_εδω)
+- 📧 Reach out for Erasmus+ Internships (2026-2027)
+
+---
+*"Turning raw data into sustainable business stories."*
